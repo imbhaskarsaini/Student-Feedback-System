@@ -18,6 +18,10 @@
                         <li class="dropdown">
         <a class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-log-in"></span> Login</a>
         <ul class="dropdown-menu">
-![2021-10-13](https://user-images.githubusercontent.com/92372911/137055288-bd3cb0d2-0f66-4d8b-ba5b-c5cb53a16805.png)
+          <br>
+
+          <div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src=">
+</div>
 
 
