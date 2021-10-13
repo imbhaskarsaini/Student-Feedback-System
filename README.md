@@ -21,7 +21,7 @@
           <br>
 
           <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src=">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/imbhaskarsaini/Student-Feedback-System/blob/main/images/2021-10-13.png">
 </div>
 
 
