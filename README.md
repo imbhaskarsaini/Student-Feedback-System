@@ -1,17 +1,6 @@
 # Student-Feedback-System
 A Web based Student Feedback system to easily mainage the details of students,faculty,feedback,Faculty type and feedback Ratings.
- <body style="padding-top: 50px;">
-        <!-- Header -->
-        <div class="navbar navbar-inverse navbar-fixed-top bhaskar">
-            <div class="container ">
-                <div class="navbar-header">
-                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                    <a class="navbar-brand" href="index.php" style="color:white;font-family:"Segoe UI";">Student FeedBack</a>
-                </div>
+
                 <div class="collapse navbar-collapse" id="myNavbar">
                     <ul class="nav navbar-nav navbar-right">
                         <li><a href="about.html"><span class="glyphicon glyphicon-book"></span> About</a></li>
@@ -99,13 +88,4 @@ needs feedback on student experiences.</p>
   </a>
 </div>
 
-        <!--Header end-->
-<?php } ?>
-        <!--Footer-->
-        <footer class=Bhaskar>
-            <div class="container ">
-                <center>
-                    <h5>Copyright &copy; Bhaskar. All Rights Reserved  |  Contact Us: +91 90000 00000</h5>
-                </center>
-            </div>
-        </footer>
+
