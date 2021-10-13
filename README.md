@@ -1,4 +1,5 @@
 # Student-Feedback-System
+# A web Based Student Feedback System to easily manage the details of students,Faculty,feedback,faculty type & feedback ratings.
 
   <div class="navbar navbar-inverse navbar-fixed-top pushkar">
             <div class="container ">
@@ -17,5 +18,6 @@
                         <li class="dropdown">
         <a class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-log-in"></span> Login</a>
         <ul class="dropdown-menu">
+![2021-10-13](https://user-images.githubusercontent.com/92372911/137055288-bd3cb0d2-0f66-4d8b-ba5b-c5cb53a16805.png)
 
 
